@@ -1,0 +1,6 @@
+{
+  "name": "VALLE Corredores de Propiedades",
+  "description": "Sitio web para boutique inmobiliaria en el Valle del Cachapoal, Chile (Machalí, Requínoa y Coya).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
